@@ -1,0 +1,21 @@
+.bg{
+   background-color: #090809; 
+}
+#header{
+    background-color: black;
+}
+#vb{
+    background-color: #f8f5f6;
+    color:black;
+    position: absolute;
+    left: 94%;
+    top: 20%; 
+      
+}
+@media screen and (max-width: 768px) {
+    #vb{
+    left: 80%;
+    }
+  }
+
+

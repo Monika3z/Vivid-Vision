@@ -1,0 +1,15 @@
+.col-lg-6{
+    background-color:hsla(60, 49%, 93%, 0.959);
+}
+#vm{
+    background-color: #33000D;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom:50px ;
+}
+#img{
+    border-radius: 5px;
+}
+.p-5{
+    color: #33000D; 
+} 

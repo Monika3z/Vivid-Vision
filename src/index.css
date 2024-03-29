@@ -1,0 +1,17 @@
+*{
+  font-family: 'Inter', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box; 
+}
+::-webkit-scrollbar{
+  width: 8px;
+}
+::-webkit-scrollbar-track{
+  background-color: rgb(0, 0, 0);
+}
+::-webkit-scrollbar-thumb{
+  background-color:burlywood;
+  border-radius: 10px;
+}

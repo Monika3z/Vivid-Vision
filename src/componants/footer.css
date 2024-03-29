@@ -1,0 +1,14 @@
+#footer{
+    background-color:black ;
+    display: flex;
+    justify-content: center;
+    color:white ;
+    color:white ;
+    /* height: 250px; */
+
+
+}
+#sendb{
+    background-color:burlywood;
+    color:black;
+}

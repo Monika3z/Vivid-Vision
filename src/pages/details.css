@@ -1,0 +1,12 @@
+@media screen and (max-width: 800px) {
+    .img2 {
+        max-width: 100%;
+        max-height: 400px;
+    }
+}
+.hea{
+    background-color:hsla(55, 66%, 93%, 0.959);
+}
+.homei{
+    background-color:hsla(55, 66%, 93%, 0.959);
+}

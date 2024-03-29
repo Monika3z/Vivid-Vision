@@ -1,0 +1,47 @@
+.effect{
+    background-color:hsla(55, 66%, 93%, 0.959);
+}
+#div1:hover,
+#div2:hover,
+#div3:hover,
+#div4:hover,
+#div5:hover,
+#div6:hover,
+#div7:hover,
+#div8:hover,
+#div9:hover,
+#div10:hover,
+#div11:hover,
+#div12:hover,
+#div13:hover,
+#div14:hover,
+#div15:hover,
+#div16:hover,
+#div17:hover,
+#div18:hover{
+    transform: scale(1.1);
+    transition: transform 1.0s;
+}
+@media screen and (max-width: 800px) {
+    .img1 {
+        max-width: 70%;
+        max-height: 400px;
+    }
+}
+
+.search {
+    width: 200px;
+    height: 35px;
+    margin: 24px;
+    border-radius: 24px;
+    background-color:burlywood;
+    border: black;
+    padding-left: 10px; 
+    position: relative;
+    background-image: url('../assets/imgFolder/magnifying-glass-solid.svg');
+    background-repeat: no-repeat;
+    background-position: 15px center; 
+    background-size: 20px;
+    }
+
+
